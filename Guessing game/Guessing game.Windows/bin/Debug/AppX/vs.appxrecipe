@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KELLY</Machine>
+    <WindowsUser>Kelly</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0152b7b6-c75d-4e4c-a350-c5fa22d7bb5c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>36526E31003644C0EEE45DE874B6370830AE0C54F4CFFEF1C479B571C1618F0F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0152b7b6-c75d-4e4c-a350-c5fa22d7bb5c_1.0.0.0_neutral__2wxtkttrfq0c2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0152b7b6-c75d-4e4c-a350-c5fa22d7bb5c_2wxtkttrfq0c2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0152b7b6-c75d-4e4c-a350-c5fa22d7bb5c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kelly</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-02T23:09:42.284</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.exe">
+      <PackagePath>Guessing game.Windows.exe</PackagePath>
+      <Modified>2017-03-24T19:44:32.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.xr.xml">
+      <PackagePath>Guessing game.Windows.xr.xml</PackagePath>
+      <Modified>2017-03-24T19:44:31.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-02T23:09:38.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-24T19:44:31.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kelly\Documents\Visual Studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-02T23:09:40.542</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

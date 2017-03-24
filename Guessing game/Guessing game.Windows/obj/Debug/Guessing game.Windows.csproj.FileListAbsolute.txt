@@ -1,0 +1,32 @@
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\App.xbf
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\MainPage.xbf
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.xr.xml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.exe
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.pdb
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\resources.pri
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\AppxManifest.xml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.build.appxrecipe
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\App.g.i.cs
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\App.g.cs
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MainPage.g.cs
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\App.xaml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MainPage.xaml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\App.xbf
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MainPage.xbf
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\Guessing game.Windows.exe
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\Guessing game.Windows.pdb
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\priconfig.xml
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\layout.resfiles
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\resources.resfiles
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\pri.resfiles
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\qualifiers.txt
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\ProjectArchitectures.txt
