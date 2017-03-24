@@ -30,3 +30,35 @@ c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game
 c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\qualifiers.txt.intermediate
 c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\kelly\documents\visual studio 2015\Projects\Guessing game\Guessing game\Guessing game.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\App.xbf
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\MainPage.xbf
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.xr.xml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.exe
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.pdb
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\resources.pri
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\bin\Debug\Guessing game.Windows.build.appxrecipe
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\App.g.i.cs
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\App.g.cs
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\App.xaml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\MainPage.xaml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\App.xbf
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\MainPage.xbf
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\Guessing game.Windows.exe
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\Guessing game.Windows.pdb
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\priconfig.xml
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\layout.resfiles
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\resources.resfiles
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\pri.resfiles
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\qualifiers.txt
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kelly\OneDrive\GitHub\Guessing game-XMAL-C#\Guessing game\Guessing game.Windows\obj\Debug\ProjectArchitectures.txt

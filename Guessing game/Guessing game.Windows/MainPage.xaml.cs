@@ -34,7 +34,6 @@ namespace Guessing_game
         private int number;
         private bool button1WasClicked = false;
         private bool textChanged = false;
-        private string numberrange;
 
         private void input_TextChanged(object sender, RoutedEventArgs e)
         {
@@ -47,44 +46,26 @@ namespace Guessing_game
         }
         private void Easy_Click(object sender, RoutedEventArgs e)
         {
-            textChanged = false;
-            text.Text = "";
-            Random random = new Random();
-            radius = random.Next(1, 20);
-            numberrange = "(1, 20)?";
-            button1WasClicked = true;
-            double pi = Math.PI;
-            double area = Math.Pow(radius, 2);
-            double circlearea = pi * area;
-            circlearea = Math.Round(circlearea, 2);
-            text.Text = "Circle area is " + circlearea + "\nWhat is the radius " + numberrange;
-            answer.Text = "";
-            counter = 0;
-
+            Calculation(20);
         }
+
         private void Med_Click(object sender, RoutedEventArgs e)
         {
-            textChanged = false;
-            text.Text = "";
-            Random random = new Random();
-            radius = random.Next(1, 50);
-            numberrange = "(1, 50)?";
-            button1WasClicked = true;
-            double pi = Math.PI;
-            double area = Math.Pow(radius, 2);
-            double circlearea = pi * area;
-            circlearea = Math.Round(circlearea, 2);
-            text.Text = "Circle area is " + circlearea + "\nWhat is the radius " + numberrange;
-            answer.Text = "";
-            counter = 0;
+            Calculation(50);
         }
+
         private void Hard_Click(object sender, RoutedEventArgs e)
+        {
+            Calculation(100);
+        }
+
+        private void Calculation(int max)
         {
             textChanged = false;
             text.Text = "";
             Random random = new Random();
-            radius = random.Next(1, 100);
-            numberrange = "(1, 100)?";
+            radius = random.Next(1, max);
+            string numberrange = "(1, " + max + ")?";
             button1WasClicked = true;
             double pi = Math.PI;
             double area = Math.Pow(radius, 2);
